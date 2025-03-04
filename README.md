@@ -1,4 +1,4 @@
-Bienvenidos al Análisis de Reservas en Airbnb en Madrid entre 2010 - 2016.
+Bienvenidos al Análisis del Comportamiento de Reservas en Airbnb en las Zonas Madrid entre 2010 - 2016.
 
 Se proporciona información de: 
   - Los reviews por Zona.
